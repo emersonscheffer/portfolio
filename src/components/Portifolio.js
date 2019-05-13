@@ -8,19 +8,19 @@ export class Portifolio extends Component {
     const portData = [
         {
             name: "Clicky Game",
-            bg: "/clicky.png",
+            bg: "clicky.png",
             pageLink: "https://emersonscheffer.github.io/clickygame/",
             githubLink: "https://github.com/emersonscheffer/clickygame.git"
         },
         {
             name: "OTG - On The Game",
-            bg: "/otg.png",
+            bg: "otg.png",
             pageLink: "https://onthegame.herokuapp.com/",
             githubLink: "https://github.com/emersonscheffer/otg.git"
         },
         {
             name: "Google Book Search",
-            bg: "/book.png",
+            bg: "book.png",
             pageLink: "https://books-search-google.herokuapp.com",
             githubLink: "https://github.com/emersonscheffer/BookSearch.git"
         },
